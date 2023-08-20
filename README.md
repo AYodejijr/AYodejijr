@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AYodeji Oluwaseyi Taiwo
-- 👀 I’m interested in Developer
+- 👋 Hi, I’m @AYodeji Oluwaseyi Taiwo.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me WApp: 08114899025
+- 💞️ I’m looking to collaborate with someone on web development & software engineering.
+- 📫 How to reach me WApp: +2348114899025.
 
 <!---
 AYodejijr/AYodejijr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
